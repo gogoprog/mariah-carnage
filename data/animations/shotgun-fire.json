@@ -1,0 +1,62 @@
+{
+    "frames": [
+        [{
+            "name": "shotgun/0",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/1",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/2",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/3",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/4",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/5",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/6",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/7",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/8",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/9",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/10",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/11",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/12",
+            "flip": false
+        }],
+        [{
+            "name": "shotgun/13",
+            "flip": false
+        }]
+    ],
+    "rate": 16,
+    "loop": false
+}

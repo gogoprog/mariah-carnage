@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>raycast-fps</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <script src="http://localhost:35729/livereload.js"></script>
+  <style>
+    html,
+    body {
+      display: flex;
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+      justify-content: center;
+      align-items: center;
+      background-color: #211;
+    }
+
+    canvas {
+      image-rendering: optimizeSpeed;
+      image-rendering: -moz-crisp-edges;
+      image-rendering: -o-crisp-edges;
+      image-rendering: -webkit-optimize-contrast;
+      image-rendering: optimize-contrast;
+      image-rendering: crisp-edges;
+      image-rendering: pixelated;
+      -ms-interpolation-mode: nearest-neighbor;
+      width: 100vw;
+      max-height: 62.5vw;
+      max-width: 160vh;
+      margin: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <canvas id="canvas"></canvas>
+  <script src="../build/main.js"></script>
+</body>
+
+</html>
