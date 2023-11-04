@@ -1,4 +1,6 @@
 -cp src
--cp deps/Ash-Haxe/src
+-cp deps/raycastfps/src
 -js build/main.js
 -main Main
+-D dataPath=./data
+-D dataRelativePath=../data
