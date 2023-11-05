@@ -1,5 +1,5 @@
--cp src
 -cp deps/raycastfps/src
+-cp src
 -js build/main.js
 -main Main
 -D dataPath=./data
