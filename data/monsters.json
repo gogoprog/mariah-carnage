@@ -1,18 +1,10 @@
 [
     {
-        "name":"grell",
+        "name":"mariah",
         "life": 100,
+        "effect": "gibs",
         "animations": {
-            "idle": "grell-idle",
-            "death": "grell-death"
-        }
-    },
-    {
-        "name":"supergrell",
-        "life": 1000,
-        "animations": {
-            "idle": "grell-idle",
-            "death": "grell-death"
+            "idle": "mariah-idle"
         }
     }
 ]
