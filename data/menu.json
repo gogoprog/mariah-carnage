@@ -1,0 +1,26 @@
+[{
+    "image": "title",
+    "title": "Menu",
+    "entries": [{
+            "content": "Play",
+            "action": "load_level",
+            "param": "first"
+        },
+        {
+            "content": "Credits",
+            "action": "",
+            "submenu": {
+                "title": "Credits",
+                "entries": [{
+                        "content": "Programmed by",
+                        "action": ""
+                    },
+                    {
+                        "content": "gogoprog",
+                        "action": ""
+                    }
+                ]
+            }
+        }
+    ]
+}]
