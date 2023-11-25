@@ -2,7 +2,9 @@
     {
         "name":"mariah",
         "life": 100,
-        "effect": "gibs",
+        "effects": {
+            "death": "gibs"
+        },
         "animations": {
             "idle": "mariah-idle"
         }
