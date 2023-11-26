@@ -1,4 +1,4 @@
--cp deps/raycastfps/src
+-cp deps/urfps/src
 -cp src
 -js build/main.js
 -main Main
