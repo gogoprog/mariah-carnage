@@ -1,6 +1,3 @@
-[submodule "deps/raycastfps"]
-	path = deps/raycastfps
-	url = git@github.com:gogoprog/raycastfps
 [submodule "deps/urfps"]
 	path = deps/urfps
 	url = git@github.com:gogoprog/urfps
