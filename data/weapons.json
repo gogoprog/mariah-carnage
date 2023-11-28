@@ -10,5 +10,8 @@
     },
     "sounds": {
         "fire": "shotgun-fire"
+    },
+    "effects": {
+        "impact": "impact"
     }
 }]

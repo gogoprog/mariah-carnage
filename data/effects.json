@@ -1,4 +1,23 @@
 [{
-    "name": "gibs",
-    "animation": "explosion"
-}]
+        "name": "gibs",
+        "animation": "explosion",
+        "spriteCount": 32,
+        "startY": 20,
+        "scale": 0.4,
+        "speedMin": 30,
+        "speedMax": 80,
+        "upSpeedMin": 100,
+        "upSpeedMax": 300
+    },
+    {
+        "name": "impact",
+        "animation": "impact",
+        "spriteCount": 4,
+        "startY": 20,
+        "scale": 0.4,
+        "speedMin": 30,
+        "speedMax": 80,
+        "upSpeedMin": 100,
+        "upSpeedMax": 300
+    }
+]
