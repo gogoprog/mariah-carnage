@@ -553,6 +553,54 @@
         -384,
         320
       ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        192,
+        -64
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        288,
+        -64
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        320,
+        -64
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        544,
+        -64
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        672,
+        -32
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        800,
+        -32
+      ]
     }
   ]
 }

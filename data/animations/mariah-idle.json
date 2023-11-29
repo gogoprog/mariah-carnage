@@ -1,9 +1,18 @@
 {
     "frames": [
         [{
-            "name": "mariah",
+            "name": "mariar1",
+            "flip": false
+        }],
+        [{
+            "name": "mariar2",
+            "flip": false
+        }],
+        [{
+            "name": "mariar3",
             "flip": false
         }]
     ],
-    "rate": 16
+    "rate": 4,
+    "loop": true
 }

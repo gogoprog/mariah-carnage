@@ -13,7 +13,7 @@
         "name": "impact",
         "animation": "impact",
         "spriteCount": 4,
-        "startY": 20,
+        "startY": 40,
         "scale": 0.4,
         "speedMin": 30,
         "speedMax": 80,

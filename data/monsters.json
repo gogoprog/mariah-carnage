@@ -2,7 +2,7 @@
     {
         "name":"mariah",
         "life": 100,
-        "scale": 0.2,
+        "scale": 0.33,
         "effects": {
             "death": "gibs"
         },
