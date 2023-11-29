@@ -8,6 +8,10 @@
         },
         "animations": {
             "idle": "mariah-idle"
+        },
+        "sounds": {
+            "grunt": "itstime",
+            "gruntrate": 0.1
         }
     }
 ]
