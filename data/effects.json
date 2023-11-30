@@ -19,5 +19,17 @@
         "speedMax": 80,
         "upSpeedMin": 100,
         "upSpeedMax": 300
+    },
+    {
+        "name": "snow",
+        "animation": "snow",
+        "spriteCount": 10,
+        "startY": 64,
+        "scale": 0.4,
+        "speedMin": 30,
+        "speedMax": 80,
+        "upSpeedMin": -5,
+        "upSpeedMax": 1,
+        "gravity": 100
     }
 ]

@@ -1,0 +1,15 @@
+{
+    "frames": [
+        [{
+                "name": "snow-0",
+                "flip": false
+            }
+        ],
+        [{
+                "name": "snow-0",
+                "flip": true
+            }
+        ]
+    ],
+    "rate": 2
+}
