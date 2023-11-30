@@ -1,17 +1,18 @@
-[
-    {
-        "name":"mariah",
-        "life": 100,
-        "scale": 0.33,
-        "effects": {
-            "death": "gibs"
-        },
-        "animations": {
-            "idle": "mariah-idle"
-        },
-        "sounds": {
-            "grunt": "itstime",
-            "gruntrate": 0.1
-        }
+[{
+    "name": "mariah",
+    "life": 100,
+    "scale": 0.33,
+    "effects": {
+        "death": "gibs"
+    },
+    "animations": {
+        "idle": "mariah-idle"
+    },
+    "sounds": {
+        "grunts": [
+            "itstime",
+            "heehaha"
+        ],
+        "gruntrate": 0.5
     }
-]
+}]
