@@ -1,6 +1,6 @@
 [{
     "name": "shotgun",
-    "rate": 1.4,
+    "rate": 1.5,
     "type": "instant",
     "fireCount": 3,
     "fireGap": 0.01,
