@@ -1,23 +1,21 @@
 {
-  "frames": [
-    {
-      "filename": "frame0",
-      "frame": {
-        "x": 0,
-        "y": 0,
-        "w": 32,
-        "h": 32
-      },
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 32,
-        "h": 32
-      },
-      "sourceSize": {
-        "w": 32,
-        "h": 32
-      }
-    }
-  ]
+    "frames": [{
+        "filename": "frame0",
+        "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 8,
+            "h": 8
+        },
+        "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 8,
+            "h": 8
+        },
+        "sourceSize": {
+            "w": 8,
+            "h": 8
+        }
+    }]
 }

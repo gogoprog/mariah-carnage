@@ -7,7 +7,8 @@
         "speedMin": 30,
         "speedMax": 80,
         "upSpeedMin": 100,
-        "upSpeedMax": 300
+        "upSpeedMax": 300,
+        "lifetime": 2
     },
     {
         "name": "impact",
@@ -18,18 +19,21 @@
         "speedMin": 30,
         "speedMax": 80,
         "upSpeedMin": 100,
-        "upSpeedMax": 300
+        "upSpeedMax": 300,
+        "lifetime": 2
     },
     {
         "name": "snow",
         "animation": "snow",
-        "spriteCount": 10,
-        "startY": 64,
-        "scale": 0.4,
-        "speedMin": 30,
-        "speedMax": 80,
-        "upSpeedMin": -5,
-        "upSpeedMax": 1,
-        "gravity": 100
+        "spriteCount": 16,
+        "startY": 200,
+        "scale": 1.0,
+        "speedMin": 10,
+        "speedMax": 20,
+        "upSpeedMin": -8,
+        "upSpeedMax": 2,
+        "gravity": 100,
+        "distance": 1000,
+        "lifetime": 2
     }
 ]
