@@ -15,9 +15,9 @@
         "animation": "impact",
         "spriteCount": 4,
         "startY": 40,
-        "scale": 0.4,
-        "speedMin": 30,
-        "speedMax": 80,
+        "scale": 0.3,
+        "speedMin": 3,
+        "speedMax": 8,
         "upSpeedMin": 100,
         "upSpeedMax": 300,
         "lifetime": 2
