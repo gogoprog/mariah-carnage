@@ -601,6 +601,14 @@
         800,
         -32
       ]
+    },
+    {
+      "type": "item",
+      "name": "tree",
+      "position": [
+        448,
+        -224
+      ]
     }
   ],
   "effect": "snow"

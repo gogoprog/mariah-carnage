@@ -1,0 +1,18 @@
+{
+    "frames": [
+        [{
+            "name": "tree",
+            "flip": false
+        }],
+        [{
+            "name": "tree",
+            "flip": false
+        }],
+        [{
+            "name": "tree",
+            "flip": false
+        }]
+    ],
+    "rate": 4,
+    "loop": true
+}

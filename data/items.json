@@ -1,0 +1,7 @@
+[{
+    "name": "tree",
+    "scale": 1.8,
+    "animations": {
+        "idle": "tree-idle"
+    }
+}]
