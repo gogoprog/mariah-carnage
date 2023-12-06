@@ -7,17 +7,32 @@
             "param": "first"
         },
         {
+            "content": "Help",
+            "action": "",
+            "submenu": {
+                "title": "Help",
+                "entries": [{
+                        "content": "Use keyboard, mouse and your brain."
+                    },
+                    {
+                        "content": "This is just a first person shooter!"
+                    },
+                    {
+                        "content": "Save Christmas!"
+                    }
+                ]
+            }
+        },
+        {
             "content": "Credits",
             "action": "",
             "submenu": {
                 "title": "Credits",
                 "entries": [{
-                        "content": "Programmed by",
-                        "action": ""
+                        "content": "Programmed by"
                     },
                     {
-                        "content": "gogoprog",
-                        "action": ""
+                        "content": "gogoprog"
                     }
                 ]
             }
