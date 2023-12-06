@@ -27,7 +27,7 @@
         "animation": "snow",
         "spriteCount": 16,
         "startY": 200,
-        "scale": 1.1,
+        "scale": 1.0,
         "speedMin": 10,
         "speedMax": 20,
         "upSpeedMin": -8,

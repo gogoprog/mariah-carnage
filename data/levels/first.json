@@ -92,6 +92,66 @@
     [
       -1024,
       -1248
+    ],
+    [
+      1504,
+      480
+    ],
+    [
+      1504,
+      0
+    ],
+    [
+      1504,
+      -128
+    ],
+    [
+      1504,
+      -672
+    ],
+    [
+      1504,
+      -1248
+    ],
+    [
+      2016,
+      -672
+    ],
+    [
+      2016,
+      -128
+    ],
+    [
+      2016,
+      0
+    ],
+    [
+      2016,
+      480
+    ],
+    [
+      2016,
+      -1248
+    ],
+    [
+      2368,
+      480
+    ],
+    [
+      2368,
+      0
+    ],
+    [
+      2368,
+      -128
+    ],
+    [
+      2368,
+      -672
+    ],
+    [
+      2368,
+      -1248
     ]
   ],
   "walls": [
@@ -109,7 +169,7 @@
       "a": 1,
       "b": 2,
       "bottomTextureName": "level/door",
-      "textureName": "level/wall",
+      "textureName": null,
       "textureScale": [
         1,
         1
@@ -219,7 +279,7 @@
       "a": 9,
       "b": 1,
       "bottomTextureName": "door",
-      "textureName": "wall",
+      "textureName": null,
       "textureScale": [
         1,
         1
@@ -278,8 +338,8 @@
     {
       "a": 15,
       "b": 16,
-      "bottomTextureName": "door",
-      "textureName": null,
+      "bottomTextureName": "level/BRICK_4A",
+      "textureName": "level/BRICK_4A",
       "textureScale": [
         1,
         1
@@ -329,7 +389,7 @@
       "a": 18,
       "b": 9,
       "bottomTextureName": "door",
-      "textureName": "wall",
+      "textureName": null,
       "textureScale": [
         1,
         1
@@ -339,7 +399,7 @@
       "a": 18,
       "b": 19,
       "bottomTextureName": "door",
-      "textureName": "wall",
+      "textureName": null,
       "textureScale": [
         1,
         1
@@ -404,6 +464,276 @@
         1,
         1
       ]
+    },
+    {
+      "a": 2,
+      "b": 23,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 23,
+      "b": 24,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 24,
+      "b": 1,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 9,
+      "b": 25,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 25,
+      "b": 24,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 18,
+      "b": 26,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 26,
+      "b": 25,
+      "bottomTextureName": "level/building",
+      "textureName": null,
+      "textureScale": [
+        1.1,
+        1
+      ]
+    },
+    {
+      "a": 19,
+      "b": 27,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 27,
+      "b": 26,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 26,
+      "b": 28,
+      "bottomTextureName": "level/building",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 28,
+      "b": 29,
+      "bottomTextureName": "level/building",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 29,
+      "b": 25,
+      "bottomTextureName": "level/building",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 24,
+      "b": 30,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 30,
+      "b": 29,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 30,
+      "b": 31,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 31,
+      "b": 23,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 27,
+      "b": 32,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 32,
+      "b": 28,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 31,
+      "b": 33,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 33,
+      "b": 34,
+      "bottomTextureName": "door",
+      "textureName": "level/BRICK_4A",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 34,
+      "b": 30,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 29,
+      "b": 35,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 35,
+      "b": 34,
+      "bottomTextureName": "door",
+      "textureName": "level/BRICK_4A",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 35,
+      "b": 36,
+      "bottomTextureName": "door",
+      "textureName": "level/BRICK_4A",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 36,
+      "b": 28,
+      "bottomTextureName": "door",
+      "textureName": null,
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 36,
+      "b": 37,
+      "bottomTextureName": "door",
+      "textureName": "level/BRICK_4A",
+      "textureScale": [
+        1,
+        1
+      ]
+    },
+    {
+      "a": 37,
+      "b": 32,
+      "bottomTextureName": "door",
+      "textureName": "wall",
+      "textureScale": [
+        1,
+        1
+      ]
     }
   ],
   "rooms": [
@@ -414,7 +744,7 @@
         2,
         3
       ],
-      "floorTextureName": "level/GRASS_1A",
+      "floorTextureName": "level/SNO70047",
       "bottom": 0,
       "top": 64
     },
@@ -448,7 +778,7 @@
         12,
         0
       ],
-      "floorTextureName": "level/GRASS_1A",
+      "floorTextureName": "level/SNO70047",
       "bottom": 0,
       "top": 64
     },
@@ -503,7 +833,7 @@
         21,
         11
       ],
-      "floorTextureName": "level/GRASS_1A",
+      "floorTextureName": "level/SNO70047",
       "bottom": 0,
       "top": 64
     },
@@ -514,7 +844,7 @@
         26,
         22
       ],
-      "floorTextureName": "level/GRASS_1A",
+      "floorTextureName": "level/SNO70047",
       "bottom": 0,
       "top": 64
     },
@@ -537,7 +867,139 @@
         18
       ],
       "floorTextureName": "level/BRICK_3A",
-      "bottom": 88,
+      "bottom": 80,
+      "top": 64
+    },
+    {
+      "walls": [
+        31,
+        32,
+        33,
+        1
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        34,
+        35,
+        12,
+        33
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        36,
+        37,
+        23,
+        34
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        38,
+        39,
+        24,
+        36
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        40,
+        41,
+        42,
+        37
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 544,
+      "top": 0
+    },
+    {
+      "walls": [
+        43,
+        44,
+        35,
+        42
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        45,
+        46,
+        43,
+        32
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        47,
+        48,
+        39,
+        40
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        49,
+        50,
+        51,
+        45
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        52,
+        53,
+        44,
+        51
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        54,
+        55,
+        52,
+        41
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
+      "top": 64
+    },
+    {
+      "walls": [
+        56,
+        57,
+        55,
+        48
+      ],
+      "floorTextureName": "level/CONCRETE_1A",
+      "bottom": 0,
       "top": 64
     }
   ],
@@ -608,6 +1070,78 @@
       "position": [
         448,
         -224
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1696,
+        -800
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1632,
+        -864
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1824,
+        -832
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1920,
+        -928
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1728,
+        -864
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1664,
+        -992
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1824,
+        -1056
+      ]
+    },
+    {
+      "type": "monster",
+      "name": "mariah",
+      "position": [
+        1920,
+        -1024
+      ]
+    },
+    {
+      "type": "item",
+      "name": "tree",
+      "position": [
+        2208,
+        -1056
       ]
     }
   ],
