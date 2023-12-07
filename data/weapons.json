@@ -31,7 +31,7 @@
             "impact": "impact"
         },
         "projectile": {
-            "speed": 1000,
+            "speed": 500,
             "lifetime": 5,
             "scale": 0.5
         }

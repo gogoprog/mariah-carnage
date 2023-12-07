@@ -1,12 +1,12 @@
 {
     "frames": [
         [{
-                "name": "note",
+                "name": "ball",
                 "flip": false
             }
         ],
         [{
-                "name": "note2",
+                "name": "ball",
                 "flip": false
             }
         ]
