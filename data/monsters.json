@@ -14,5 +14,8 @@
             "heehaha"
         ],
         "gruntrate": 0.5
-    }
+    },
+    "weapon": "sing",
+    "attackIntervalMin": 5,
+    "attackIntervalMax": 10
 }]

@@ -1,17 +1,39 @@
 [{
-    "name": "shotgun",
-    "rate": 1.5,
-    "type": "instant",
-    "fireCount": 3,
-    "fireGap": 0.01,
-    "animations": {
-        "fire": "shotgun-fire",
-        "idle": "shotgun-idle"
+        "name": "shotgun",
+        "rate": 1.5,
+        "type": "bullet",
+        "fireCount": 3,
+        "fireGap": 0.01,
+        "animations": {
+            "fire": "shotgun-fire",
+            "idle": "shotgun-idle"
+        },
+        "sounds": {
+            "fire": "shotgun-fire"
+        },
+        "effects": {
+            "impact": "impact"
+        }
     },
-    "sounds": {
-        "fire": "shotgun-fire"
-    },
-    "effects": {
-        "impact": "impact"
+    {
+        "name": "sing",
+        "rate": 1.5,
+        "type": "projectile",
+        "fireCount": 1,
+        "fireGap": 0.01,
+        "sounds": {
+            "fire": "itstime"
+        },
+        "animations": {
+            "projectile": "note"
+        },
+        "effects": {
+            "impact": "impact"
+        },
+        "projectile": {
+            "speed": 1000,
+            "lifetime": 5,
+            "scale": 0.5
+        }
     }
-}]
+]

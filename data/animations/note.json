@@ -1,0 +1,16 @@
+{
+    "frames": [
+        [{
+                "name": "note",
+                "flip": false
+            }
+        ],
+        [{
+                "name": "note2",
+                "flip": false
+            }
+        ]
+    ],
+    "rate": 3,
+    "loop": true
+}
