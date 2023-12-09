@@ -28,11 +28,18 @@
             "action": "",
             "submenu": {
                 "title": "Credits",
-                "entries": [{
+                "entries": [
+                    {
                         "content": "Programmed by"
                     },
                     {
                         "content": "gogoprog"
+                    },
+                    {
+                        "content": "Music by"
+                    },
+                    {
+                        "content": "gogoprog, clemz"
                     }
                 ]
             }

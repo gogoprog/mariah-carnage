@@ -13,7 +13,8 @@
             "itstime",
             "heehaha"
         ],
-        "gruntrate": 0.5
+        "gruntrate": 0.5,
+        "death": "splash"
     },
     "weapon": "sing",
     "attackIntervalMin": 5,
