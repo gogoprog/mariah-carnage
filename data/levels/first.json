@@ -1146,5 +1146,7 @@
     }
   ],
   "effect": "snow",
-  "music": "alliwant"
+  "music": "alliwant",
+  "type": "exterminate",
+  "endMenu": "1"
 }

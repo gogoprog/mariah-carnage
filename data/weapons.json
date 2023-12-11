@@ -2,7 +2,7 @@
         "name": "shotgun",
         "rate": 1.5,
         "type": "bullet",
-        "fireCount": 3,
+        "fireCount": 7,
         "fireGap": 0.01,
         "animations": {
             "fire": "shotgun-fire",

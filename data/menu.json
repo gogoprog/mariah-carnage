@@ -1,48 +1,64 @@
 [{
-    "image": "title",
-    "title": "Menu",
-    "entries": [{
-            "content": "Play",
-            "action": "load_level",
-            "param": "first"
-        },
-        {
-            "content": "Help",
-            "action": "",
-            "submenu": {
-                "title": "Help",
-                "entries": [{
-                        "content": "Use keyboard, mouse and your brain."
-                    },
-                    {
-                        "content": "This is just a first person shooter!"
-                    },
-                    {
-                        "content": "Save Christmas!"
-                    }
-                ]
+        "image": "title",
+        "title": "Menu",
+        "entries": [{
+                "content": "Play",
+                "action": "load_level",
+                "param": "first"
+            },
+            {
+                "content": "Help",
+                "action": "",
+                "submenu": {
+                    "title": "Help",
+                    "entries": [{
+                            "content": "Use keyboard, mouse and your brain."
+                        },
+                        {
+                            "content": "This is just a first person shooter!"
+                        },
+                        {
+                            "content": "Save Christmas!"
+                        }
+                    ]
+                }
+            },
+            {
+                "content": "Credits",
+                "action": "",
+                "submenu": {
+                    "title": "Credits",
+                    "offset": -150,
+                    "entries": [{
+                            "content": "Programmed by"
+                        },
+                        {
+                            "content": "gogoprog"
+                        },
+                        {
+                            "content": "Music by"
+                        },
+                        {
+                            "content": "gogoprog, clemz"
+                        }
+                    ]
+                }
             }
-        },
-        {
-            "content": "Credits",
-            "action": "",
-            "submenu": {
-                "title": "Credits",
-                "entries": [
-                    {
-                        "content": "Programmed by"
-                    },
-                    {
-                        "content": "gogoprog"
-                    },
-                    {
-                        "content": "Music by"
-                    },
-                    {
-                        "content": "gogoprog, clemz"
-                    }
-                ]
+        ]
+    },
+    {
+        "image": "title",
+        "title": "THE END.",
+        "entries": [{
+                "content": "Somehow you save Christmas!"
+            },
+            {
+                "content": "Well done!"
+            },
+            {
+                "content": "BACK",
+                "action": "main_menu"
             }
-        }
-    ]
-}]
+        ]
+    }
+]
