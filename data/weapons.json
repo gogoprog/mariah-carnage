@@ -28,7 +28,7 @@
             "projectile": "note"
         },
         "effects": {
-            "impact": "impact"
+            "impact": "impact2"
         },
         "projectile": {
             "speed": 500,

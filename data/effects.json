@@ -26,6 +26,19 @@
         "lifetime": 2
     },
     {
+        "name": "impact2",
+        "animation": "impact",
+        "spriteCount": 4,
+        "startYMin": 0,
+        "startYMax": 0,
+        "scale": 0.9,
+        "speedMin": 5,
+        "speedMax": 10,
+        "upSpeedMin": 50,
+        "upSpeedMax": 100,
+        "lifetime": 2
+    },
+    {
         "name": "snow",
         "animation": "snow",
         "spriteCount": 16,
