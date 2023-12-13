@@ -3,3 +3,5 @@ build
 temp
 *.zip
 /tags
+/temp
+
