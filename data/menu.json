@@ -11,11 +11,12 @@
                 "action": "",
                 "submenu": {
                     "title": "Help",
-                    "entries": [{
-                            "content": "Use keyboard, mouse and your brain."
+                    "entries": [
+                        {
+                            "content": "Use keyboard, mouse"
                         },
                         {
-                            "content": "This is just a first person shooter!"
+                            "content": "and your brain."
                         },
                         {
                             "content": "Save Christmas!"
@@ -39,7 +40,7 @@
                             "content": "Music by"
                         },
                         {
-                            "content": "gogoprog, clemz"
+                            "content": "gogoprog, clemo"
                         }
                     ]
                 }
@@ -49,11 +50,18 @@
     {
         "image": "title",
         "title": "THE END.",
-        "entries": [{
-                "content": "Somehow you save Christmas!"
+        "entries": [
+            {
+                "content": "Somehow you saved"
+            },
+            {
+                "content": "Christmas!"
             },
             {
                 "content": "Well done!"
+            },
+            {
+                "content": ""
             },
             {
                 "content": "BACK",
