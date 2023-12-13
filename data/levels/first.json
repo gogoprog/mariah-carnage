@@ -319,7 +319,7 @@
       "bottomTextureName": "level/building",
       "textureName": null,
       "textureScale": [
-        1,
+        1.1,
         1
       ]
     },
@@ -1521,14 +1521,6 @@
   ],
   "objects": [
     {
-      "type": "start",
-      "name": "player",
-      "position": [
-        -384,
-        320
-      ]
-    },
-    {
       "type": "monster",
       "name": "mariah",
       "position": [
@@ -1686,6 +1678,14 @@
       "position": [
         -352,
         -1824
+      ]
+    },
+    {
+      "type": "start",
+      "name": "player",
+      "position": [
+        -928,
+        -64
       ]
     }
   ],
